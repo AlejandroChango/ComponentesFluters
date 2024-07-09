@@ -41,7 +41,12 @@ class MyApp extends StatelessWidget {
                   location: 'Malecon,Pedro carbo y 10 de Agosto',
                   ), ImageSection(image: 'images/Guayaquil.png'),
                   ButtonSection(),
-                  TextSection(description: "El Malecón 2000 tiene una extensión de 2,5 km. Su recorrido empieza por el ala sur donde está el Palacio de Cristal y la Plaza Olmedo; y termina en las faldas del Cerro Santa Ana y Barrio Las Peñas. Si te sientes aventurero, puedes recorrerla de extremo a extremo.")
+                  TextSection(description: "El Malecón 2000 tiene una extensión de 2,5 km. Su recorrido empieza por el ala sur donde está el Palacio de Cristal y la Plaza Olmedo; y termina en las faldas del Cerro Santa Ana y Barrio Las Peñas. Si te sientes aventurero, puedes recorrerla de extremo a extremo."),
+                  TitleSection(
+                  name: 'Aqua River Park', 
+                  location: 'Pichincha,Guayabamba',
+                  ),ImageSection(image: 'images/AquaRiver.jpg'),ButtonSection(),
+                  TextSection(description: "Vive una aventura increíble en el primer parque temático de Ecuador y el único que permite mascotas. El parque se encuentra en Guayllabamba vía Malchinguí Río Pisque a 30 minutos de Quito. Para el Disfrute en Familia."),
               ],      
                        ),
           ),
