@@ -21,25 +21,26 @@ class MyApp extends StatelessWidget {
                   TitleSection(
                   name: 'Panecillo', 
                   location: 'Quito,Plaza Grande',
-                  ),ButtonSection(),
+                  ),ImageSection(image: 'images/Panecillo.jpg'),ButtonSection(),
                    TextSection(description: "El Panecillo es una escultura de aluminio que capta la atención desde casi cualquier parte de Quito, debido a su ubicación. La Virgen del Panecillo es una escultura de aluminio que capta la atención desde casi cualquier parte de Quito, al estar ubicada en una de las zonas más altas de la ciudad"),
                     
                    TitleSection(
                   name: 'La ronda', 
                   location: 'Quito,24 de Mayo',
-                  ),ButtonSection(),
+                  ),ImageSection(image: 'images/Laronda.jpg'),ButtonSection(),
                   TextSection(description: "La Ronda, calle empedrada, larga y estrecha, recorre una encantadora arquitectura colonial, típica del Centro Histórico de Quito. Años atrás fue conocida como el puente de los “gallinazos” (Ullaguanga-yacu) o El Chaquiñan porque conectaba una de las chorreras del Pichincha y recorría la Quebrada de los Gallinazos."),
                     
                    TitleSection(
                   name: 'Galapagos', 
                   location: 'Ecuador,Isla santa cruz',
-                  ),ButtonSection(),
+                  ),ImageSection(image: 'images/Galapagos.png'),ButtonSection(),
                   TextSection(description: "La isla se caracteriza por su paisaje geológico y la variedad de su vegetación, distinguiendo 7 zonas de vegetación en su altitud de 864 m sobre el nivel del mar. La isla esta llena de encantos naturales, hermosas playas, especies animales únicas, vegetación exuberante, cráteres y túneles de lava."),
-                  ImageSection(image: 'images/lake.jpg'),
+                 
                    TitleSection(
                   name: 'Guayaquil', 
                   location: 'Malecon,Pedro carbo y 10 de Agosto',
-                  ),ButtonSection(),
+                  ), ImageSection(image: 'images/Guayaquil.png'),
+                  ButtonSection(),
                   TextSection(description: "El Malecón 2000 tiene una extensión de 2,5 km. Su recorrido empieza por el ala sur donde está el Palacio de Cristal y la Plaza Olmedo; y termina en las faldas del Cerro Santa Ana y Barrio Las Peñas. Si te sientes aventurero, puedes recorrerla de extremo a extremo.")
               ],      
                        ),
