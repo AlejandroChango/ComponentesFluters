@@ -3,15 +3,15 @@
 Se creo 5 lugares en el blog 
 
 ## Getting Started
-sector1
+#sector1
 ![image](https://github.com/AlejandroChango/ComponentesFluters/assets/23177104/d289d11e-dfa2-49e6-927c-1934f25b63a4)
-sector 2
+#sector 2
 ![image](https://github.com/AlejandroChango/ComponentesFluters/assets/23177104/bcfaa5a2-bfdf-45f2-ae38-890acf7340bb)
-sectoir3
+#sectoir3
 ![image](https://github.com/AlejandroChango/ComponentesFluters/assets/23177104/87772112-2b0b-4233-971f-370893959985)
-sector4
+#sector4
 ![image](https://github.com/AlejandroChango/ComponentesFluters/assets/23177104/699c4def-a01c-4577-ac98-a7ebb134f6c0)
-sector5
+#sector5
 ![image](https://github.com/AlejandroChango/ComponentesFluters/assets/23177104/6e1d5d15-3afd-46c0-87fb-8c491144a690)
 
 This project is a starting point for a Flutter application.
